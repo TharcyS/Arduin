@@ -1,10 +1,10 @@
-// Programa controle de luminosidade com LDR
+
 
 int ledverde = 11;
 int ledaamarelo = 10;
 int ledvermelho = 9;
 float LDR = A0;
-float valorLDR = 0; //Leitura inicial do LDR
+float valorLDR = 0; 
 
 void setup() {
   
